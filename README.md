@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Dx3One usr/bin/zsh | systemd | CyberSecurity ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+- 👋 Hi, I’m @Dx3One
 - 👀 I’m interested in IT-Sec
 - 🌱 I’m currently learning anything
