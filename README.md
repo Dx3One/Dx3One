@@ -1,20 +1,17 @@
 
-> *„Cybersecurity is not a hobby – it’s the only game that matters.”*  
-
----
 
 ### 👋 Hi, I’m @Dx3One  
 **IT‑Security • Bug‑Hunter • Malware‑Forensics Enthusiast**
 
 ---
 
-## 📜 Was ich tue
+## 📜 Was ich tue 🤖
 
 | Status | Aktuelles Projekt / Fokus |
 |--------|---------------------------|
 | **Bug Hunting & Malware Forensics** | Analyse von Exploits, Reverse‑Engineering von Schadsoftware und Veröffentlichung von Lessons Learned. |
 | **Tool Development** | Eigenentwickelte Bash/Python/Go Skripte für automatisierte Sicherheitstests, die ich in der Community teile. |
-| **Open Source Contributions** | Aktive Teilnahme an Projekten (z. B. Metasploit‑Module, Go‑Security‑Libraries). |
+| **Open Source Contributions** | Aktive Teilnahme an Projekten. |
 | **Mobile Pentesting & Web3** | Lernen von Android/iOS Exploit‑Entwicklung und Smart‑Contract Audits. |
 
 > 🚀 *Road‑Map:* **Cybersecurity Specialist → Offensive Security Engineer**
@@ -30,7 +27,7 @@ Linux (Debian, Kali) | Docker | Git | Debian Packages
 Mobile Pentesting | Malware Forensics | Bug Hunting
 ```
 
-> Wenn du mehr über **OSINT** wissen willst – schreib mir!
+> Wenn du mehr über **OSINT** wissen willst – schreib mir! 😊
 
 ---
 
