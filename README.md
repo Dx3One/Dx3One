@@ -1,55 +1,67 @@
-# 👋 Hi, I’m **@Dx3One**  
-> **Cybersecurity Enthusiast | Bug Hunter | Malware Forensics & Mobile Pentester**
+
+> *„Cybersecurity is not a hobby – it’s the only game that matters.”*  
 
 ---
 
-## 🔎 About Me  
-
-- Passionate about all things security – from **bug hunting** to **malware forensics**.  
-- Actively **managing tech communities** and producing content that helps others grow in the field.  
-- Building and maintaining a suite of open‑source tools that empower developers, sysadmins, and fellow security researchers.  
-
-> *“I’m on a mission to become a full‑stack Cybersecurity Specialist – one skill at a time.”*  
+### 👋 Hi, I’m @Dx3One  
+**IT‑Security • Bug‑Hunter • Malware‑Forensics Enthusiast**
 
 ---
 
-## 🚀 Current Focus  
+## 📜 Was ich tue
 
-| Area | What I’m Doing |
-|------|----------------|
-| **Bug Hunting & Malware Forensics** | Analyzing vulnerable applications, reverse‑engineering malware, and publishing findings. |
-| **Mobile Pentesting** | Exploring Android/iOS security, building custom exploits, and contributing to open‑source mobile pentest frameworks. |
-| **Web3 Security** | Investigating smart contracts, DApp vulnerabilities, and blockchain infrastructure. |
-| **Community Building & Content Creation** | • Hosting meetups<br>• Writing tutorials<br>• Streaming live labs |
+| Status | Aktuelles Projekt / Fokus |
+|--------|---------------------------|
+| **Bug Hunting & Malware Forensics** | Analyse von Exploits, Reverse‑Engineering von Schadsoftware und Veröffentlichung von Lessons Learned. |
+| **Tool Development** | Eigenentwickelte Bash/Python/Go Skripte für automatisierte Sicherheitstests, die ich in der Community teile. |
+| **Open Source Contributions** | Aktive Teilnahme an Projekten (z. B. Metasploit‑Module, Go‑Security‑Libraries). |
+| **Mobile Pentesting & Web3** | Lernen von Android/iOS Exploit‑Entwicklung und Smart‑Contract Audits. |
 
+> 🚀 *Road‑Map:* **Cybersecurity Specialist → Offensive Security Engineer**
 
 ---
 
-## 🛠️ Skillset & Tools
+## 🛠️ Skills & Knowledge
 
-| Category | Skills / Tools |
-|----------|----------------|
-| **Programming** | Bash • Python • Go • Java • JavaScript (React) |
-| **Web & Networking** | Burp Suite • Metasploit • Wireshark • Docker • Git • Linux (Debian, Kali) |
-| **Front‑End** | HTML5 • CSS3 • React |
-| **Others** | Debian, Docker, GitHub Actions |
+```
+Burp Suite | Metasploit | Wireshark
+Bash | Python | Go | JavaScript | React
+Linux (Debian, Kali) | Docker | Git | Debian Packages
+Mobile Pentesting | Malware Forensics | Bug Hunting
+```
 
-> *Tools I love:*  
-> - 🎯 Burp Suite (web app testing)  
-> - ⚡ Metasploit (exploit development)  
-> - 🕸️ Wireshark (network traffic analysis)  
-> - 🤖 Python & Go for automation  
+> Wenn du mehr über **OSINT** wissen willst – schreib mir!
 
 ---
 
 
-## 📬 Let’s Connect  
+## 🎯 Ziele & Lernreise
 
-- 🐦 **Twitter** – [@Dx3One](https://twitter.com/Dx3One)  
+- **Mobile Pentesting** – Android‑Reverse Engineering
+- **Bug Hunting** – Teilnahme an CTFs, Bug Bounty‑Programmen (HackerOne, Bugcrowd).  
 
-> *Feel free to open an issue or DM if you’d like to collaborate on a project, host a talk, or just chat about the latest in security.*
+> *Lerne jeden Tag etwas Neues – IT‑Security ist mein Lebenslauf!*
 
 ---
 
-### 🎉 Thank You for Visiting!  
-Keep exploring, keep hacking responsibly. 🚀
+## 📬 Kontakt
+
+| Medium | Link |
+|--------|------|
+| **GitHub** | <https://github.com/Dx3One> |
+| **Twitter** | <https://twitter.com/Dx3One> |
+| **Discord** | `Dx3One` (DM für Zusammenarbeit) |
+---
+
+### 🚀 Let’s Hack Responsibly!
+
+```
+👨‍💻  I’m learning anything that helps me become a Cybersecurity Specialist
+📚  Writing tools for myself and my community
+🛠️  Contributing to open‑source security projects
+🌱  Currently exploring mobile pentesting & Web3
+```
+
+> *"Security is an ongoing journey, not a destination." – Stay curious, stay safe!*
+
+---
