@@ -23,7 +23,7 @@
 ```
 Burp Suite | Metasploit | Wireshark
 Bash | Python | Go | JavaScript | React
-Linux (Debian, Kali) | Docker | Git | Debian Packages
+Linux (Debian, Arch) | Docker | Git | Debian Packages
 Mobile Pentesting | Malware Forensics | Bug Hunting
 ```
 
